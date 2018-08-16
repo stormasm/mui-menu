@@ -173,7 +173,7 @@ class MenuAppBar extends React.Component {
                 className={classes.githubButton}
                 component="a"
                 color="inherit"
-                href="https://github.com/stormasm/mui-tutorial-demo/tree/master/mui-menu"
+                href="https://github.com/stormasm/mui-menu"
                 aria-label="GitHub repository"
               >
                 <GithubIcon />
