@@ -184,6 +184,7 @@ class MenuAppBar extends React.Component {
 
         <div>
           <Route exact path="/" component={Home} />
+          <Route exact path="/mui-menu" component={Home} />
           <Route exact path="/admin" component={Admin} />
 
           <Route path={`/${selectedKey}/sec1`} component={ShowTheLocation} />
