@@ -19,7 +19,9 @@ The only thing that is displayed on the screen is your location.  But that is en
 
 #### Precursor to Github Worlds
 
-You will see when you get into **Github Worlds** that the menu items are the views instead of the sections and the chapters are actually the Github
+You will see when you get into
+**[Github Worlds Menu](https://muitool.github.io/ghw-menu/)** 
+that the menu items are the views instead of the sections and the chapters are actually the Github
 repository you wish to view.
 
 ### Adding Dynamic Routes
