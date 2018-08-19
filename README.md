@@ -8,7 +8,7 @@ and
 [react-redux](https://github.com/reduxjs/react-redux).
 
 This demo displays the same concept as
-[mui-drawer](https://github.com/stormasm/mui-tutorial-demo/tree/master/mui-drawer) except the navigation is a function of **menus** instead of
+[mui-drawer](https://stormasm.github.io/mui-drawer/) except the navigation is a function of **menus** instead of
 [drawers](https://material-ui.com/demos/drawers/).
 
 ### The concept
@@ -20,7 +20,7 @@ The only thing that is displayed on the screen is your location.  But that is en
 #### Precursor to Github Worlds
 
 You will see when you get into
-**[Github Worlds Menu](https://muitool.github.io/ghw-menu/)** 
+**[Github Worlds Menu](https://muitool.github.io/ghw-menu/)**
 that the menu items are the views instead of the sections and the chapters are actually the Github
 repository you wish to view.
 
